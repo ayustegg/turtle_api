@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Columbus",
+    "img": "assets/turtles_images/turtle.jpg",
+    "coordinates": [
+      {
+        "date": "01/05/2024",
+        "lng": -0.32222839209060794,
+        "lat": 39.472022904188776
+      },
+      {
+        "date": "02/05/2024",
+        "lng": -0.2839039282796705,
+        "lat": 39.46873597295456
+      },
+      {
+        "date": "03/05/2024",
+        "lng": -0.2000876542040544,
+        "lat": 39.51772611009872
+      },
+      {
+        "date": "04/05/2024",
+        "lng": 0.09678400804131115,
+        "lat": 39.56451047781786
+      },
+      {
+        "date": "05/05/2024",
+        "lng": 0.5620762833405024,
+        "lat": 39.23608162455943
+      },
+      {
+        "date": "06/05/2024",
+        "lng": 1.3416648557683004,
+        "lat": 39.23363072621578
+      },
+      {
+        "date": "01/05/2024",
+        "lng": -0.32222839209060794,
+        "lat": 39.472022904188776
+      }
+    ],
+    "description": {
+      "specie": "Tortuga Boba",
+      "scientificName": "Caretta Caretta",
+      "history": "Columbus es una tortuga marina que nació en 2019, formando parte de un evento histórico en las Islas Baleares: el primer nido registrado en Ibiza. Después de romper el cascarón y salir de la arena, ella y algunas de sus hermanas fueron llevadas a diferentes instituciones y centros de conservación como parte del proyecto de cría y crecimiento ('Head-starting'), cuyo objetivo es aumentar sus posibilidades de supervivencia antes de que entren al mar por primera vez. En concreto, Columbus permaneció inicialmente en Palma Aquarium y, un año más tarde, en 2020, llegó al Oceanogràfic de Valencia donde continuó su desarrollo en el Área de Recuperación y Conservación de Animales (ARCA) del Mar. Tras un proceso de fortalecimiento y adaptación, llegó el momento de entrar al mar. El 1 de mayo de 2021, Columbus emprendió su viaje al océano desde la playa de Ibiza, el mismo lugar donde su vida comenzó. Pero la historia de esta tortuga aún estaba lejos de ser sencilla. Justo un año después, el 1 de mayo de 2022, Columbus fue hallada nuevamente, esta vez en Alicante, pero en otras circunstancias. Presentaba heridas en su aleta y en el hombro izquierdo, probablemente causadas por una interacción accidental con artes de pesca, una de las mayores amenazas para las tortugas marinas en nuestros mares. Sin embargo, gracias a la rápida intervención de los especialistas, la tortuga fue tratada de nuevo en el ARCA del Mar y, tras meses de recuperación, pudo ser liberada nuevamente en el verano de 2023. El destino quiso que Columbus volviera a enfrentarse a la adversidad. Este mismo año, fue vista cerca de Port Saplaya, en Valencia, flotando en superficie. Durante su revisión, los expertos detectaron dos anzuelos alojados en su esófago. Nuevamente, fue ingresada en el ARCA del Mar, donde fue intervenida y tratada con el mismo cuidado que en ocasiones anteriores. Una vez recuperada, su viaje continúa. El pasado 4 de octubre de 2024, Columbus volvió al mar gracias al apadrinamiento de la Fundación Colombus y esta vez lo ha hecho de una manera especial: equipada con un dispositivo de seguimiento satelital. Esta tecnología permite seguir sus movimientos en el océano y aprender más sobre sus hábitos y rutas migratorias. Con ello, además de continuar su vida en el mar, Columbus se ha convertido en una embajadora de su especie, ayudando a concienciar sobre la importancia de proteger los ecosistemas marinos y las amenazas que enfrentan estos animales. Hoy sabemos que Columbus es una hembra fuerte, que ha superado múltiples obstáculos y que sigue adelante, simbolizando la lucha por la supervivencia en un mundo lleno de desafíos. ¡Sigue su viaje!",
+      "habitat": "Se distribuye por todos los mares del planeta excepto por los polares.",
+      "curiosities": [
+        "De las 3 especies de tortugas marinas que se pueden observar en el mar Mediterráneo, esta es la más abundante, seguida de la verde y la laúd.",
+        "Suelen realizar sus puestas en el mediterráneo oriental (costas de Grecia, Turquía y norte de África), aunque en los últimos años se ha observado el desplazamiento las puestas al mediterráneo occidental.",
+        "En la Comunidad Valenciana se tiene registro de puestas desde 2006.",
+        "Cada nido de una tortuga 'caretta caretta' puede contener alrededor de 80 huevos que eclosionan tras 2 meses de incubación."
+      ],
+      "feeding": "Al tratarse de una tortuga oportunista, se alimenta de prácticamente cualquier objeto que encuentro flotando en la superficie, lo que lamentablemente le suponen un gran problema de ingesta de plásticos."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tommy",
+    "img": "assets/turtles_images/toby.jpg",
+    "coordinates": [
+      {
+        "date": "11/09/2024",
+        "lng": -74.09801368685282,
+        "lat": 40.55989954563918
+      },
+      {
+        "date": "12/09/2024",
+        "lng": -74.06138250872289,
+        "lat": 40.49907979282591
+      },
+      {
+        "date": "13/09/2024",
+        "lng": -73.45134440817606,
+        "lat": 40.509083843932444
+      },
+      {
+        "date": "14/09/2024",
+        "lng": -68.74371276231865,
+        "lat": 33.19654403460204
+      },
+      {
+        "date": "15/09/2024",
+        "lng": -60.463091483483026,
+        "lat": 41.50592181216146
+      },
+      {
+        "date": "16/09/2024",
+        "lng": -59.09906505196727,
+        "lat": 28.627932963473384
+      }
+    ],
+    "description": {
+      "specie": "Tortuga Boba",
+      "scientificName": "Caretta Caretta",
+      "history": "Tommy fue pescada accidentalmente en las costas de Benicarló por un pescador local. Afortunadamente, el pescador se dio cuenta de que había atrapado una tortuga marina y no un pez, por lo que decidió llevarla a un centro de recuperación de fauna marina. Allí, Tommy fue examinada por veterinarios que determinaron que estaba en buen estado de salud. Después de unos días de observación, Tommy fue liberada de nuevo en el mar, equipada con un dispositivo de seguimiento para monitorear sus movimientos y asegurar su bienestar.",
+      "habitat": "Se distribuye por todos los mares del planeta excepto por los polares.",
+      "curiosities": [
+        "De las 3 especies de tortugas marinas que se pueden observar en el mar Mediterráneo, esta es la más abundante, seguida de la verde y la laúd.",
+        "Suelen realizar sus puestas en el mediterráneo oriental (costas de Grecia, Turquía y norte de África), aunque en los últimos años se ha observado el desplazamiento las puestas al mediterráneo occidental.",
+        "En la Comunidad Valenciana se tiene registro de puestas desde 2006.",
+        "Cada nido de una tortuga 'caretta caretta' puede contener alrededor de 80 huevos que eclosionan tras 2 meses de incubación."
+      ],
+      "feeding": "Al tratarse de una tortuga oportunista, se alimenta de prácticamente cualquier objeto que encuentro flotando en la superficie, lo que lamentablemente le suponen un gran problema de ingesta de plásticos."
+    }
+  },
+  {
+    "name": "Nemo",
+    "img": "assets/turtles_images/nemo.jpg",
+    "coordinates": [],
+    "description": {
+      "specie": "Tortuga Verde",
+      "scientificName": "Chelonia mydas",
+      "history": "Descripción de la tortuga...",
+      "habitat": "Habitats cálidos...",
+      "curiosities": [
+        "Curiosidad 1",
+        "Curiosidad 2"
+      ],
+      "feeding": "Se alimenta de..."
+    },
+    "id": 3
+  }
+]
